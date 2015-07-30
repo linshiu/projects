@@ -1,0 +1,3 @@
+# American Time Use Survey
+
+The objective of this report was to apply data preparation techniques to the 2008 American Time Use Survey (ATUS) in order to prepare the data for analysis. The main goal of the analysis was to determine how Americans spend their time. More specifically, what was the participation rate of the population for different activities? How did the distribution of awake time during weekdays compare to that of weekends and holidays? Did the average hours per day spent in an activity vary among different demographics groups? The data preparation and summary techniques discussed in this report were aimed at answering these research questions.

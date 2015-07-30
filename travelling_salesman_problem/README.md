@@ -1,0 +1,5 @@
+# Travelling Salesman Problem
+
+The objective of this report was to solve the travelling salesman problem (TSP) for the largest 150 US cities given their longitude and latitude coordinates. In other words, the goal was to find the shortest possible route that visits each city exactly once and returns to the origin city. Since the TSP is an NP-hard problem, the farthest insertion heuristic was implemented to find a feasible and reasonable solution.
+
+The first step was to compute the pair-wise distance between cities using an appropriate formula and store the results in a 150x150 matrix, in which each entry represents the distance between cities (edges of the graph). This matrix was called the cost (or distance) matrix. Then a route was found using the mentioned heuristic, and finally a plot of the tour was made. The appendix shows all codes for all files used, as well as some references and resources related to coding and plotting in Matlab.

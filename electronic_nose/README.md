@@ -1,0 +1,3 @@
+# Electronic Nose: A classification study
+
+This study compares various supervised machine learning methods using electronic nose data. More specifically, six popular classification methods are implemented: linear discriminant analysis (LDA), logistic regression (LOG), support vector machines (SVM), classification and regression tree (CART), random forest (RF), and boosting (BOOST). The advantages and disadvantages of each method are discussed, and then the various methods are compared in terms of misclassification errors on a testing dataset after using a training set to train the machine-learning algorithms. Finally, the computational difficulty of high-dimensionality is addressed by using principal component analysis (PCA).
