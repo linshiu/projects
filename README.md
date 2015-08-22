@@ -17,6 +17,8 @@ Miscellaneous projects
 
 ## Electronic Nose
 
+## Green Schoolyards
+
 ## Kaggle: Don't get kicked!
 
 ## Medical Diagnosis & Treatment: A Decision Analysis Study
