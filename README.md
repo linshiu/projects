@@ -7,6 +7,8 @@ Miscellaneous projects
 
 ## Beer
 
+## Bowling Simulation
+
 ## Catalog Sales
 
 ## Crime
@@ -20,3 +22,4 @@ Miscellaneous projects
 ## Step Cone Pulley
 
 ## Travelling Salesman Problem
+

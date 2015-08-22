@@ -1,0 +1,23 @@
+
+
+         MODEL DEFAULTS
+         --------------
+
+Model Name:         PROJECT_data18.mod
+Model Description:  BOWLING ALLEY
+Output File:        27.OUT
+Output Plot Style:  NONE
+Run Mode:           HI_SPEED
+Trace Vars:         SI,B,WAIT,CTIME,N,WDAY,L[0],L[1],L[2],L[12],L[13],L[14],L[15],L[16],L[17],L[18],L[19],L[20],L[21],L[22],L[23
+Random Number Seed: 9201
+Initial Values:     0,18,0,0,0,0,0,0,0,0
+Ending Condition:   STOP_ON_EVENT
+Event:              END   (1 iterations)
+Trace Events:       END
+Hide Edges:         
+
+
+
+ Time        Event       Count       SI          B           WAIT        CTIME       N           WDAY        L[0]        L[1]        L[2]        L[12]       L[13]       L[14]       L[15]       L[16]       L[17]       L[18]       L[19]       L[20]       L[21]       L[22]       L[23]      
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 10740.000   END         1           1082        106         18230.496   1024.389    2841        7           62          15          0           6           90          111         123         121         126         120         126         126         126         126         124         
