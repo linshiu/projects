@@ -13,9 +13,13 @@ Miscellaneous projects
 
 ## Crime
 
+## Dining Optimization
+
 ## Electronic Nose
 
 ## Kaggle: Don't get kicked!
+
+## Medical Diagnosis & Treatment: A Decision Analysis Study
 
 ## Sports Participation
 

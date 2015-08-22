@@ -1,0 +1,56 @@
+#### Inputs
+
+param numItems := 5;
+param numPeriods := 17 ;
+param M          := 100000000000 ;
+
+#common ordering cost (units: $/order)
+
+param S := 500;
+
+#percentage of unit cost for item i for holding cost (units: %)
+
+param p := 0.2;
+
+#individual ordering cost for item type i (units: $/order)
+#unit cost for item type i (units: $/item) 
+
+param:        c        s       :=
+	1   34.59     65.03
+	2   37.97     71.38
+	3   39.24     73.77   
+	4   38.30     72.00
+	5   41.07     77.21       ; 
+
+# demand for item type i for period t (units: item)
+
+param d:  
+        1       2       3       4       5      :=
+1	0 	6 	0 	20 	0 
+2	0 	0 	4 	0 	8 
+3	17 	6 	0 	0 	4 
+4	0 	4 	0 	40 	8 
+5	16 	0 	0 	12 	0 
+6	12 	4 	4 	12 	0 
+7	0 	2 	8 	12 	0 
+8	12 	2 	4 	16 	0 
+9	12 	6 	0 	4 	0 
+10	0 	4 	0 	12 	0 
+11	0 	0 	0 	16 	0 
+12	0 	2 	16 	24 	0 
+13	12 	0 	0 	12 	0 
+14	0 	0 	0 	0 	0 
+15	12 	2 	0 	4 	0 
+16	8 	2 	4 	12 	0 
+17	0 	0 	4 	8 	0 ;
+
+
+# initial inventory level of item type i (units: item)
+
+param Io := 1 0
+            2 0
+            3 0 
+	    4 0
+            5 0;
+
+
