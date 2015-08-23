@@ -17,6 +17,8 @@ Miscellaneous projects
 
 ## Electronic Nose
 
+## Enzyme Decision Analysis Case Study
+
 ## Green Schoolyards
 
 ## Kaggle: Don't get kicked!
@@ -28,4 +30,6 @@ Miscellaneous projects
 ## Step Cone Pulley
 
 ## Travelling Salesman Problem
+
+## Wine Decision Analysis Case Study
 
