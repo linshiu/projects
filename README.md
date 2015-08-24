@@ -1,7 +1,10 @@
 # projects
 Miscellaneous projects
 
-1. **[Airline](/medicare/2_Final%20Output/lin_rehman_report.pdf)**
+1. **[Airline](/airline)**
+1. [Airline](/airline/)
+1. ##[Airline](/projects/airline)
+1. ##[Airline](/projects/airline/)
 
 ## American Time Use Survey
 
