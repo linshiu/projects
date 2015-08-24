@@ -1,39 +1,34 @@
 # projects
 Miscellaneous projects
 
-1. **[Airline](/airline)**
-1. [Airline](/airline/)
-1. ##[Airline](/projects/airline)
-1. ##[Airline](/projects/airline/)
+- **[Airline](/airline)**
 
-## American Time Use Survey
+- **[American Time Use Survey](/american_time_use_survey)**
 
-## Beer
+- **[Beer](/beer)**
 
-## Bowling Simulation
+- **[Bowling Simulation](/bowling_simulation)**
 
-## Catalog Sales
+- **[Catalog Sales](/catalog_sales)**
 
-## Crime
+- **[Crime](/crime)**
 
-## Dining Optimization
+- **[Dining Optimization](/dining_optimization)**
 
-## Electronic Nose
+- **[Electronic Nose](/electronic_nose)**
 
-## Enzyme Decision Analysis Case Study
+- **[Enzyme Decision Analysis Case Study](/enzyme_decision)**
 
-## Green Schoolyards
+- **[Green Schoolyards](/green_school)**
 
-## Kaggle: Don't get kicked!
+- **[Kaggle: Don't get kicked!](/kaggle_dont_get_kicked)**
 
-## Medical Diagnosis & Treatment: A Decision Analysis Study
+- **[Medical Diagnosis & Treatment: A Decision Analysis Study](/medical_decision)**
 
-## Sports Participation
+- **[Sports Participation](/sports_participation)**
 
-## Step Cone Pulley
+- **[Step Cone Pulley](/step_cone_pulley)**
 
-## Travelling Salesman Problem
+- **[Travelling Salesman Problem](/travelling_salesman_problem)**
 
-## Wine Decision Analysis Case Study
-
-
+- **[Wine Decision Analysis Case Study](/wine_decision)**
